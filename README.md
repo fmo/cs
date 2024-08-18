@@ -1,5 +1,9 @@
 # Process vs Thread
 
+## Program
+
+Program is an executable file which has code or set of processor instructions, that is stored as a file on the disk.
+
 ## Process
 
 Each process has its own memory address space. Own process can not corrupt the other process's memory space.
